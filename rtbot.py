@@ -1,14 +1,16 @@
 # Retweet bot for Twitter, using Python and Tweepy.
 # Search query via hashtag or keyword.
 
+#Setup twitter dev account
+#Read this artical to know more https://docs.inboundnow.com/guide/create-twitter-application/
 
 import tweepy
 from time import sleep
 
-CONSUMER_KEY = 'WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW'
-CONSUMER_SECRET = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
-ACCESS_KEY = 'YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY'
-ACCESS_SECRET = 'ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ'
+CONSUMER_KEY = 'Paste your consumer kay here.'
+CONSUMER_SECRET = ''
+ACCESS_KEY = ''
+ACCESS_SECRET = ''
 
 # change your Twitter application keys, tokens, and secrets
 
